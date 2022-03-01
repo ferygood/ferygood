@@ -1,4 +1,4 @@
-### Hi there <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/159/087/154.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/krol3/krol3/master/wave.gif" width="30px">
 
 I'm Yao-Chung, a PhD student at [Nowick Lab](http://nowicklab.info/), at Freie Universität Berlin. 
 
