@@ -7,6 +7,5 @@ My research focus on mono-allelic expression genes in Alzheimer's Disease, Bioin
 :mailbox:  yao-chung.chen@fu-berlin.de
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ferygood&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferygood&hide=TeX&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ferygood)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ferygood&count_private=true&show_icons=true&include_all_commits=true&theme=vue)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferygood&hide=Jupyter+Notebook&theme=vue&layout=compact)](https://github.com/ferygood/github-readme-stats)
