@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/krol3/krol3/master/wave.gif" width="30px">
-
+### Hi there :wave:
 I'm Yao-Chung, a PhD student at [Nowick Lab](http://nowicklab.info/), at Freie Universität Berlin. 
 
 My research focus on mono-allelic expression genes in Alzheimer's Disease, Bioinformatics, and Machine Learning.
