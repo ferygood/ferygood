@@ -10,5 +10,5 @@ Publications:
 :mailbox:  yao-chung.chen@fu-berlin.de
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ferygood&count_private=true&show_icons=true&include_all_commits=true&theme=vue)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ferygood&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_rank=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferygood&hide=Jupyter+Notebook,html,javascript,css&theme=vue&layout=compact)](https://github.com/ferygood/github-readme-stats)
